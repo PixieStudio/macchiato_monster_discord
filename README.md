@@ -1,0 +1,3 @@
+# Macchiato Monster - Discord Bot
+
+Readme soon...
